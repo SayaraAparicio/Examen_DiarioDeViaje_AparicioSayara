@@ -8,3 +8,7 @@ Visitar el Burj Khalifa
 
 ## Foto
 ![](https://octane.rent/wp-content/uploads/2023/03/The-Dubai-Marina-District.webp)
+
+## Informacion
+
+La ciudad está compuesta por los edificios más lujosos y altos del mundo, las obras arquitectónicas más extravagantes y extraordinarias del mundo, hoteles de súper lujo y centros comerciales increíblemente inmensos, todo eso ligado a la hospitalidad de las personas y su tradicional cultura.
