@@ -5,3 +5,6 @@ Es conocida por su lujoso comercio, la arquitectura ultramoderna y su vida noctu
 
 ## Recomendaciones
 Visitar el Burj Khalifa
+
+## Foto
+![](https://octane.rent/wp-content/uploads/2023/03/The-Dubai-Marina-District.webp)
