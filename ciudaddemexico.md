@@ -5,3 +5,6 @@ Ciudad de México es la densamente poblada capital de México que se encuentra a
 
 ## Recomendaciones
 Visitar el Palacio de las Bellas Artes
+
+## Foto
+![](https://traveler.marriott.com/es/wp-content/uploads/sites/2/2018/05/SI_MEXIS_Angel_Independencia_1920x1080.jpg)
