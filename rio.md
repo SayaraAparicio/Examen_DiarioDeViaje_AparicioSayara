@@ -5,3 +5,6 @@ Río de Janeiro es una enorme ciudad costera de Brasil, famosa por sus playas de
 
 ## Recomendaciones
 Visitar toda su zona costera 
+
+## Foto
+![](https://elviajista.com/wp-content/uploads/2018/02/riojaneiro.jpg)
