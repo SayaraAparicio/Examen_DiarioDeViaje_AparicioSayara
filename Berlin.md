@@ -5,3 +5,6 @@ Berlín, capital alemana, data del siglo XIII. Los elementos que recuerdan la tu
 
 ## Recomendaciones
 Visitar el muro de Berlin
+
+## Foto
+![](https://e7852c3a.rocketcdn.me/wp-content/uploads/2022/09/the-brandenburg-gate-in-berlin-2021-09-02-08-45-23-utc-1400x933.jpg)
